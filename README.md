@@ -15,6 +15,6 @@
 3. cd into the cloned directory. `cd BongoMeetScheduler`
 4. Install the requirements. `pip install -r requirements.txt`
 5. Run the solution scripts accordingly. for example, for the problem run
-`python bongo1.py`
+`python problem_solution.py`
 6. To test the script run `pytest -v`
 
